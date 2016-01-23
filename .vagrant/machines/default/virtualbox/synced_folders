@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/yotdoc/Documents/taki2/taki","disabled":false},"project-root":{"id":"project-root","owner":"vagrant","group":"www-data","mount_options":["dmode=775,fmode=664"],"guestpath":"/var/www/taki","hostpath":"/Users/yotdoc/Documents/taki2/taki","disabled":false}}}
